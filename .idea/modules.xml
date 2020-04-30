@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amazegoto.iml" filepath="$PROJECT_DIR$/amazegoto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/autofill/autofill.iml" filepath="$PROJECT_DIR$/libraries/autofill/autofill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/autofill_assistant/autofill_assistant.iml" filepath="$PROJECT_DIR$/libraries/autofill_assistant/autofill_assistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/content/content.iml" filepath="$PROJECT_DIR$/libraries/content/content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/customtabs/customtabs.iml" filepath="$PROJECT_DIR$/libraries/customtabs/customtabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/download/download.iml" filepath="$PROJECT_DIR$/libraries/download/download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/embedder_support/embedder_support.iml" filepath="$PROJECT_DIR$/libraries/embedder_support/embedder_support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/feed/feed.iml" filepath="$PROJECT_DIR$/libraries/feed/feed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/media/media.iml" filepath="$PROJECT_DIR$/libraries/media/media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/ui/ui.iml" filepath="$PROJECT_DIR$/libraries/ui/ui.iml" />
+    </modules>
+  </component>
+</project>
